@@ -14,5 +14,6 @@ kill掉算了！
 
 + [点此订阅](abp:subscribe?location=https://raw.github.com/superslh/AdBlockCustom/master/myAdBlockList.txt&title=everpcpc's list) ！
 
++ [点此处订阅](abp:subscribe?location=https://raw.github.com/superslh/AdBlockCustom/master/myAdBlockList.txt&title=everpcpc's list)
 
 CopyRight @ songliheng
