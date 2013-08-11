@@ -11,9 +11,8 @@ kill掉算了！
 结果很多时间就浪费了，于是kill掉右边侧栏。
 
 + 其他的慢慢完善吧，第一次用git，感觉还不赖！
++ 订阅地址：https://raw.github.com/superslh/AdBlockCustom/master/myAdBlockList.txt
 
-+ [点此订阅](abp:subscribe?location=https://raw.github.com/superslh/AdBlockCustom/master/myAdBlockList.txt&title=everpcpc's list) ！
 
-+ [点此处订阅](abp:subscribe?location=https://raw.github.com/superslh/AdBlockCustom/master/myAdBlockList.txt&title=everpcpc's list)
 
 CopyRight @ songliheng
