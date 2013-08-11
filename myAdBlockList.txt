@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Title: myAdBlockList
+! Last modified: 2013-08-11 17:47:45
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/superslh/AdBlockCustom
+
 www.chinadsl.net##A[href="javascript:;"]  
 ifeng.com##IMG[id="imgSinaShare"][class="fx"][src="http://y0.ifengimg.com/detail/img/sin.jpg"]  
 www.right.com.cn##A[href="javascript:;"]  
