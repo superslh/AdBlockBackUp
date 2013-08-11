@@ -4,18 +4,35 @@
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/superslh/AdBlockCustom
 
+!----rules written by songliheng----!
+!----see https://adblockplus.org/zh_CN/filters
+
+!--------------------------------------------!
 www.chinadsl.net##A[href="javascript:;"]
 ifeng.com##IMG[id="imgSinaShare"][class="fx"][src="http://y0.ifengimg.com/detail/img/sin.jpg"]
 www.right.com.cn##A[href="javascript:;"]
 xiazaiba.com##UL[class="metu-list2 clearfix"]
+!--------------------------------------------!
+
+
+!----------------腾讯网----------------------!
+!--------------------------------------------!
 qq.com##DIV[id="followall_mod"][class="followall_mod"]
 qq.com##DIV[id="tipsWBzf"]
+!--------------------------------------------!
+
+
+!----------------新浪网----------------------!
+!--------------------------------------------!
 sina.com.cn##DIV[id="b-drag-div"]
 sina.com.cn##DIV[id="selectionShare"]
 sina.com.cn##DIV[class="article-video"]
 sina.com.cn##DIV[class="sidebar"]
 sina.com.cn##DIV[class="side"]
 sina.com.cn##DIV[class="side-btns-2wm"]
+!--------------------------------------------!
+
+
 163.com##DIV[class="area top-gg-area"]
 xinhuanet.com##DIV[class="c_right"]
 xinhuanet.com##DIV[class="sidebar"]
