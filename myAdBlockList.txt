@@ -32,7 +32,7 @@ sina.com.cn##DIV[class="side"]
 sina.com.cn##DIV[class="side-btns-2wm"]
 !--------------------------------------------!
 
-
+yahoo.com##DIV[class="sider"]
 163.com##DIV[class="area top-gg-area"]
 163.com##span[class="ptcp"]
 xinhuanet.com##DIV[class="c_right"]
