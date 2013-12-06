@@ -8,6 +8,18 @@
 !----see https://adblockplus.org/zh_CN/filters
 
 !--------------------------------------------!
+!----------2013年12月6日 更新----------------!
+!--------------------------------------------!
+@@http://v.youku.com/$document
+people.com.cn##DIV[class="c_r fr"]
+@@||www.wealink.com/$document
+51job.com##DIV[id="student_package_sp"]
+@@||www.400gb.com/$document
+blog.sina.com.cn##IFRAME[src="http://blog.sina.com.cn/lm/iframe/article/searchqing.html?t=1386042468643"]
+zhidao.baidu.com##IMG[id="selectsearch-icon"]
+!--------------------------------------------!
+
+!--------------------------------------------!
 www.chinadsl.net##A[href="javascript:;"]
 ifeng.com##IMG[id="imgSinaShare"][class="fx"][src="http://y0.ifengimg.com/detail/img/sin.jpg"]
 www.right.com.cn##A[href="javascript:;"]
