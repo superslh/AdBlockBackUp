@@ -31,6 +31,8 @@ xiazaiba.com##UL[class="metu-list2 clearfix"]
 !--------------------------------------------!
 qq.com##DIV[id="followall_mod"][class="followall_mod"]
 qq.com##DIV[id="tipsWBzf"]
+qq.com##DIV[id="tipsWBzf"]
+qq.com##DIV[id="hcfc"]
 !--------------------------------------------!
 
 
